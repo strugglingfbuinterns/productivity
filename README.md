@@ -6,3 +6,5 @@ Productivity app that will help productivity!
 - suggests break options
 - easier to find break stuff (meditations, or like other stuff)
 - gives exact times for breaks
+- 1743 kinda idea
+- 
